@@ -1,0 +1,27 @@
+_repo: Copper-WorkA-Text-Book-for-Teachers-and-Students-in-the-Manual-Arts_41851
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41851-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rose, Augustus F. (Augustus Foster)
+    alias: Rose, Augustus Foster
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '41396'
+    url: http://www.gutenberg.org/2009/agents/41396
+description: ''
+gutenberg_issued: '2013-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copperwork'
+- !lcc 'TT'
+title: 'Copper Work: A Text Book for Teachers and Students in the Manual Arts'
+url: http://www.gutenberg.org/ebooks/41851
